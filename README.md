@@ -47,6 +47,6 @@ Below is an example of how the app might look. Note, DO NOT make yours look like
 
 ## Link to Video Walk through: 
 
-[https://www.loom.com/share/6ba3fba159084626ad6797766f24dabb?sid=00083994-5557-4378-807b-69f681da35c1](https://www.youtube.com/watch?v=2y4jkR5_yok)
+[The Demo Video](https://www.youtube.com/watch?v=2y4jkR5_yok)
 
 © 2024 ALL RIGHTS RESERVED FOR [Mohamed Yasin](https://github.com/mohamedAYasin/)
