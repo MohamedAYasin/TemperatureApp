@@ -30,7 +30,9 @@ Submission type: Link to your GitHub Repo and a 1-3 minute video demo
 
 ## Screenshots of the App
 
-
+![temp_portrait](https://github.com/user-attachments/assets/6315a46a-6d55-4463-9fbc-bc45f9f994f0)
+![temp-landscape](https://github.com/user-attachments/assets/8b54f66f-ebed-4daa-b342-ba455545c473)
+![temp_history](https://github.com/user-attachments/assets/9da5cbb9-4d6b-4707-8d9e-fde7367edaae)
 
 ## Getting Started
 
